@@ -24,7 +24,7 @@ Front-end integration: Connect the contract to a React or Next.js frontend with 
 Enhanced privacy with ZKPs: Incorporate zero-knowledge proofs for private yet verifiable votes.
 
 📜 Contract Details
-Contract address: 0x86F5a16431eF027413bD5098E7ee010EDFEDcFB2
+Contract address:  0x86F5a16431eF027413bD5098E7ee010EDFEDcFB2
 
 Network: Ethereum Mainnet (or compatible testnet)
 
