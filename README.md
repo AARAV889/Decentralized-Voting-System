@@ -27,4 +27,6 @@ Enhanced privacy with ZKPs: Incorporate zero-knowledge proofs for private yet ve
 Contract address: 0x86F5a16431eF027413bD5098E7ee010EDFEDcFB2
 
 Network: Ethereum Mainnet (or compatible testnet)
+![Screenshot 2025-06-22 015255](https://github.com/user-attachments/assets/70a5af4e-af88-45f8-8197-aec05a06fdca)
+
 
