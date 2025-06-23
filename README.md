@@ -1,30 +1,30 @@
 🗳️ Decentralized Voting System
-Overview
-The Decentralized Voting System is a blockchain-powered application designed to ensure secure, transparent, and trustless digital elections. It allows users to vote for pre-registered candidates, ensuring that each vote is immutable, publicly visible, and verifiable on-chain.
+🔎 Overview
+The Decentralized Voting System is a blockchain-based application that ensures secure, transparent, and trustless digital elections. It enables voters to cast their votes immutably on-chain for predefined candidates.
 
-🔍 Project Vision
-To revolutionize traditional voting systems by providing a decentralized, tamper-proof platform that significantly reduces fraud and enhances trust, security, and transparency in the electoral process.
+🎯 Project Vision
+To provide a decentralized and tamper-proof alternative to traditional voting systems, significantly reducing fraud and increasing transparency in electoral processes.
 
-🚀 Key Features
-✅ One Vote Per Voter: Ensures each address can vote only once.
+🌟 Key Features
+One vote per voter: Each Ethereum address is allowed to vote only once.
 
-👥 Valid Candidate Enforcement: Votes can only be cast for predefined, valid candidates.
+Valid candidate enforcement: Votes can be cast only for registered candidates.
 
-🔍 Publicly Visible Results: Election outcomes are accessible to anyone on the blockchain.
+Public result visibility: Voting outcomes are recorded and viewable on-chain.
 
-⚙️ Easy Setup: Candidates can be easily configured at deployment for customizable elections.
+Simple configuration: Candidate list can be customized during contract deployment.
 
-🌐 Future Enhancements
-🔐 Role-Based Voter Registration: Limit voting access to verified users or roles.
+🚧 Future Scope
+Role-based voter registration: Allow only verified or authorized addresses to vote.
 
-⏱️ Time-Bound Voting: Enable voting to end at a specified block timestamp or date.
+Time-restricted voting: Automatically end voting at a specific block timestamp.
 
-💻 UI Integration: Seamless connection with front-end interfaces using React/Next.js and MetaMask.
+Front-end integration: Connect the contract to a React or Next.js frontend with MetaMask support.
 
-🕵️‍♂️ Privacy Enhancements: Integrate zero-knowledge proofs (ZKPs) to protect voter identities while maintaining transparency.
+Enhanced privacy with ZKPs: Incorporate zero-knowledge proofs for private yet verifiable votes.
 
-📦 Smart Contract Information
-Contract Address: 0x86F5a16431eF027413bD5098E7ee010EDFEDcFB2
+📜 Contract Details
+Contract address: 0x86F5a16431eF027413bD5098E7ee010EDFEDcFB2
 
-Network: Ethereum (Mainnet/Testnet)
-![Screenshot 2025-06-22 015255](https://github.com/user-attachments/assets/e1de4502-2c33-4cda-a210-0dffbc9f14b4)
+Network: Ethereum Mainnet (or compatible testnet)
+
